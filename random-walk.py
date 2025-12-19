@@ -6,7 +6,7 @@ import ctypes
 import sdl3.SDL_events
 import colorsys
     
-window = sdl3.SDL_CreateWindow("Test".encode(),WIDTH,HEIGHT,0)
+window = sdl3.SDL_CreateWindow("Random Walk".encode(),WIDTH,HEIGHT,0)
 renderer = sdl3.SDL_CreateRenderer(window,None)
 wsurface = sdl3.SDL_GetWindowSurface(window)
 SCALE = 10
@@ -73,6 +73,7 @@ while running:
 sdl3.SDL_DestroyRenderer(renderer)
 sdl3.SDL_DestroyWindow(window)
 sdl3.SDL_Quit()
+
 
 
 
