@@ -2,6 +2,8 @@
 Inspired by **Daniel Hirsch's** video **"Coding a Random Walk in C"** (https://youtu.be/ErA4U9WqNCE?si=Eh6SumtlEvTJXRTH). This is my realization of it in Python using SDL3.
 
 Made purely for enjoyment.
+
+<video src="media/random-walk-video.mp4" width="600" controls></video>
 # Features
   - Custom number of random walkers (agents) 
   - Each of the agents has it's unique random color
