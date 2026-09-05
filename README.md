@@ -3,10 +3,7 @@ Inspired by **Daniel Hirsch's** video **"Coding a Random Walk in C"** (https://y
 
 Made purely for enjoyment.
 
-
-
-https://github.com/user-attachments/assets/0292d183-313d-4ba9-866c-972162142012
-
+https://github.com/user-attachments/assets/5f2249e3-6649-4b1b-8938-523ff894baa7
 
 # Features
   - Custom number of random walkers (agents) 
