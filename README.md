@@ -3,7 +3,7 @@ Inspired by **Daniel Hirsch's** video **"Coding a Random Walk in C"** (https://y
 
 Made purely for enjoyment.
 
-<video src="media/random-walk-video.mp4" width="600" controls></video>
+<video src="https://github.com/rrusls/random-walk/blob/main/media/random-walk-video.mp4" width="600" controls></video>
 # Features
   - Custom number of random walkers (agents) 
   - Each of the agents has it's unique random color
