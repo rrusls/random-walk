@@ -1,5 +1,5 @@
 # Random walk on PySDL 
-Inspired by **Daniel Hirsch's** video **"Coding a Random Walk in C"** (https://youtu.be/ErA4U9WqNCE?si=Eh6SumtlEvTJXRTH). This is my realization of it in Python using SDL3.
+Inspired by **Daniel Hirsch's** video **"Coding a Random Walk in C"** (https://youtu.be/ErA4U9WqNCE). This is my realization of it in Python using SDL3.
 
 Made purely for enjoyment.
 
